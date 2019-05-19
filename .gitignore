@@ -114,3 +114,4 @@ dmypy.json
 .pyre/
 *.png
 *.zip
+GANs_lab/inception_ckpt/inception_v3.ckpt
