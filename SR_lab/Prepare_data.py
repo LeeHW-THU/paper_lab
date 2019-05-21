@@ -15,6 +15,8 @@ starttime = datetime.datetime.now()
 
 save_HR_path = os.path.join(save_dir, 'HR_x4')
 save_LR_path = os.path.join(save_dir, 'LR_x4')
+os.mkdir(save_HR_path)
+os.mkdir(save_LR_path)
 file_list = sorted(glob(os.path.join(train_HR_dir, '*.png')))
 HR_size = [100, 0.8, 0.7, 0.6, 0.5]
 
