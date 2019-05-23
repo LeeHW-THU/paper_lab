@@ -4,4 +4,4 @@
 # @File    : flags.py
 # @Software: PyCharm
 train_HR_dir='./data/DIV2K_train_HR'
-save_dir='./data'
+save_dir='./data/Prepare'
