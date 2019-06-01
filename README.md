@@ -8,6 +8,7 @@
 - Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels（1903.12529）
 - Feedback Network for Image Super-Resolution（1903.09814）
 - Image Super-Resolution by Neural Texture Transfer（1903.00834）
+- Towards Real Scene Super-Resolution with Raw Images (1905.12156)
 
 #### Face analysis
 
